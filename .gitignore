@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
+<<<<<<< HEAD
 *.vs
+=======
+>>>>>>> 348b0057f0d68d0c100dd9141d789379e23967ae
 *.vs/
 
 # Compiled Object files
